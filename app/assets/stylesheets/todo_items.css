@@ -1,0 +1,48 @@
+/*
+  Place all the styles related to the matching controller here.
+  They will automatically be included in application.css.
+*/
+h1{
+  color: blue;
+}
+
+
+a{
+  text-decoration: none;
+}
+
+
+td{
+  color: red;
+}
+
+
+.new_todo{
+  margin-left: 222px;
+    border: 2px solid #02020e;
+    width: 101px;
+    height: 20px;
+    background-color: #b5c2ca;
+}
+
+.field .todo_item_description{
+  height: 50px;
+  width: 50px;
+}
+
+.pat_would_call_homepage{
+  background-image: url("wycode1.jpeg");
+  color: white;
+}
+
+.pat_would_call_homepage a, .pat_would_call_homepage h1{
+  color: white;
+}
+
+.pats_all_todo_page{
+  background-image: url("wyncode-icon.jpg");
+}
+
+.pats_all_todo_page td{
+  background-color: yellow;
+}
